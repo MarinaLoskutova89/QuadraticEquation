@@ -9,6 +9,7 @@ namespace QuadraticEquation
     public enum Severity
     {
         Warning,
-        Error
+        Error,
+        Information,
     }
 }
